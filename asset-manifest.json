@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rozpoctovac/static/css/main.172f1ac6.css",
+    "main.js": "/Rozpoctovac/static/js/main.fc19f211.js",
+    "index.html": "/Rozpoctovac/index.html",
+    "main.172f1ac6.css.map": "/Rozpoctovac/static/css/main.172f1ac6.css.map",
+    "main.fc19f211.js.map": "/Rozpoctovac/static/js/main.fc19f211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172f1ac6.css",
+    "static/js/main.fc19f211.js"
+  ]
+}
