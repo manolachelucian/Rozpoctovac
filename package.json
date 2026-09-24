@@ -2,6 +2,7 @@
   "name": "reactproject",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://manolachelucian.github.io/Rozpoctovac",
   "dependencies": {
     "@tailwindcss/cli": "^4.3.3",
     "@testing-library/dom": "^10.4.1",
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
